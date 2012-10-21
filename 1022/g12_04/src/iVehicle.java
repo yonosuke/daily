@@ -1,0 +1,4 @@
+
+interface iVehicle {
+	void vShow();
+}

@@ -1,0 +1,4 @@
+
+interface iMaterial {
+	void mShow();
+}
